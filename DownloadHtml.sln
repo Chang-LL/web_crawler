@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DownloadHtml", "DownloadHtml\DownloadHtml.pyproj", "{DE3CA4B4-845A-4EBD-BC50-7CF86340220B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3CA4B4-845A-4EBD-BC50-7CF86340220B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3CA4B4-845A-4EBD-BC50-7CF86340220B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F6C580F-59D6-45B5-8931-E2E5B39F2A4E}
+	EndGlobalSection
+EndGlobal
